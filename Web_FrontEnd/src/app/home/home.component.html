@@ -11,10 +11,11 @@
         </li>
       </ul>
     </nav>
+
   <div class="row justify-content-center">
     <div class="col-sm-8">
       <div class="input-group mb-3">
-        <input type="text" name="busqueda" class="form-control" placeholder="Buscar usuario, autor o libro" aria-label="Busqueda" aria-describedby="Busqueda" #busqueda (keyup)="buscar(busqueda)" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"/>
+        <input type="text" name="busqueda" class="form-control" placeholder="Buscar usuario, paciente o medicamento" aria-label="Busqueda" aria-describedby="Busqueda" #busqueda (keyup)="buscar(busqueda)" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"/>
         <div *ngIf="userSearch || libroSearch || autorSearch " class="dropdown-menu" aria-labelledby="dropdownMenuButton">
           <a class="dropdown-item" href="#" *ngFor="let user of userSearch">
             {{ user.usuario }} <span class="badge badge-pill badge-primary col-sm-4">Usuario</span>
