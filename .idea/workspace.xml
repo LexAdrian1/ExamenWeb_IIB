@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="928933a3-d4bf-4e7d-83bf-d30bfa079054" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Web_FrontEnd/src/app/user-detail/user-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_FrontEnd/src/app/user-detail/user-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.component.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="102">
+              <caret line="26" column="106" selection-start-line="26" selection-start-column="106" selection-end-line="26" selection-end-column="106" />
             </state>
           </provider>
         </entry>
@@ -76,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user-detail.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="user-detail.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/user-detail/user-detail.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="68">
+              <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -118,8 +118,8 @@
         <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/autor/autor.component.html" />
         <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/libro/libro.component.html" />
         <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.css" />
-        <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.html" />
         <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/user-detail/user-detail.component.html" />
+        <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.html" />
       </list>
     </option>
   </component>
@@ -258,12 +258,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531780005433</updated>
-      <workItem from="1531780006671" duration="20189000" />
+      <workItem from="1531780006671" duration="21350000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20189000" />
+    <option name="totallyTimeSpent" value="21350000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -277,7 +277,7 @@
       <window_info anchor="bottom" id="Run" order="7" weight="0.3290938" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.3163752" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.38791734" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="6" />
@@ -523,13 +523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Web_BackEnd/src/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -540,20 +533,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/user-detail/user-detail.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="68">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="26" column="106" selection-start-line="26" selection-start-column="106" selection-end-line="26" selection-end-column="106" />
         </state>
       </provider>
     </entry>
