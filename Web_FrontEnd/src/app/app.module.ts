@@ -13,6 +13,7 @@ import {HttpClientModule} from '@angular/common/http';
 import { UserDetailComponent } from './user-detail/user-detail.component';
 import { AutorDetailComponent } from './autor-detail/autor-detail.component';
 import { LibroDetailComponent } from './libro-detail/libro-detail.component';
+import { PerfilusuarioComponent } from './perfilusuario/perfilusuario.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { LibroDetailComponent } from './libro-detail/libro-detail.component';
     LibroComponent,
     UserDetailComponent,
     AutorDetailComponent,
-    LibroDetailComponent
+    LibroDetailComponent,
+    PerfilusuarioComponent
   ],
   imports: [
     BrowserModule,
