@@ -1,6 +1,6 @@
 <div class="container-fluid">
     <nav class="navbar sticky-top row justify-content-start">
-      <ul class="navbar-nav col-lg-2 text-left">
+      <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" *ngIf="usuario">
             <img [src]="usuario.imagenUrl" class="img-thumbnail img-fluid" [width]="50" [height]="50" alt=""> {{ usuario.usuario }}
@@ -28,12 +28,15 @@
           </a>
         </div>
         <div class="input-group-append">
-          <button class="btn btn-primary" (click)="buscar(busqueda)" type="button" id="btn-buscar">Buscar</button>
+          <button class="btn btn-outline-success my-2 my-sm-0" (click)="buscar(busqueda)" type="button" id="btn-buscar">Buscar</button>
         </div>
       </div>
     </div>
   </div>
 </div>
+<br>
 <app-usuario></app-usuario>
+<br>
 <app-autor></app-autor>
+<br>
 <app-libro></app-libro>

@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="928933a3-d4bf-4e7d-83bf-d30bfa079054" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_FrontEnd/src/app/autor-detail/autor-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_FrontEnd/src/app/autor-detail/autor-detail.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web_FrontEnd/src/app/autor/autor.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_FrontEnd/src/app/autor/autor.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web_FrontEnd/src/app/libro/libro.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_FrontEnd/src/app/libro/libro.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_FrontEnd/src/app/login/login.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_FrontEnd/src/app/login/login.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web_FrontEnd/src/app/usuario/usuario.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web_FrontEnd/src/app/usuario/usuario.component.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -27,7 +28,7 @@
       <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web_BackEnd/src/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="510">
               <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
               <folding>
                 <element signature="e#0#72#0" expanded="true" />
@@ -36,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.component.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="115" selection-start-line="17" selection-start-column="115" selection-end-line="17" selection-end-column="115" />
+            <state relative-caret-position="34">
+              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -48,8 +58,8 @@
       <file leaf-file-name="usuario.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/usuario/usuario.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="80" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -57,22 +67,45 @@
       <file leaf-file-name="autor.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/autor/autor.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="136">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="libro.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="libro.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/libro/libro.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="136">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user-detail.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/user-detail/user-detail.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autor-detail.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/autor-detail/autor-detail.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>BUscar</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,11 +116,13 @@
         <option value="$PROJECT_DIR$/Web_BackEnd/src/main.ts" />
         <option value="$PROJECT_DIR$/Web_BackEnd/src/app.module.ts" />
         <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/login/login.component.html" />
-        <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.css" />
-        <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.html" />
+        <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/user-detail/user-detail.component.html" />
+        <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/autor-detail/autor-detail.component.html" />
         <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/usuario/usuario.component.html" />
         <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/autor/autor.component.html" />
         <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/libro/libro.component.html" />
+        <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.css" />
+        <option value="$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.html" />
       </list>
     </option>
   </component>
@@ -101,7 +136,7 @@
     <handled-path value="$PROJECT_DIR$/Web_BackEnd/node_modules" />
     <handled-path value="$PROJECT_DIR$/Web_FrontEnd/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="943" />
     <option name="height" value="788" />
@@ -122,6 +157,23 @@
             <path>
               <item name="ExamenWeb_IIB" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExamenWeb_IIB" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_BackEnd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenWeb_IIB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenWeb_IIB" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_BackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenWeb_IIB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenWeb_IIB" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_BackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenWeb_IIB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenWeb_IIB" type="462c0819:PsiDirectoryNode" />
               <item name="Web_FrontEnd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -143,7 +195,15 @@
               <item name="Web_FrontEnd" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="autor" type="462c0819:PsiDirectoryNode" />
+              <item name="autor-detail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenWeb_IIB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenWeb_IIB" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExamenWeb_IIB" type="b2602c69:ProjectViewProjectNode" />
@@ -152,6 +212,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="libro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExamenWeb_IIB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExamenWeb_IIB" type="462c0819:PsiDirectoryNode" />
+              <item name="Web_FrontEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="user-detail" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExamenWeb_IIB" type="b2602c69:ProjectViewProjectNode" />
@@ -169,7 +237,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ExamenAWeb_IIB" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -201,15 +269,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531780005433</updated>
-      <workItem from="1531780006671" duration="12681000" />
+      <workItem from="1531780006671" duration="16780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12681000" />
+    <option name="totallyTimeSpent" value="16780000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="5" />
@@ -385,15 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Web_BackEnd/src/autor/autor.controller.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Web_BackEnd/src/autor/autor.entity.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -438,9 +497,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Web_BackEnd/src/autor/autor.controller.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <folding>
+            <element signature="e#0#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/user-detail/user-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/autor-detail/autor-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/autor/autor.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/libro/libro.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/usuario/usuario.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Web_BackEnd/src/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="510">
           <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
           <folding>
             <element signature="e#0#72#0" expanded="true" />
@@ -450,36 +560,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="115" selection-start-line="17" selection-start-column="115" selection-end-line="17" selection-end-column="115" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/usuario/usuario.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="80" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/home/home.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/autor/autor.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Web_FrontEnd/src/app/libro/libro.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="34">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
         </state>
       </provider>
     </entry>
